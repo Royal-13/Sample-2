@@ -1,6 +1,9 @@
 // import './globals.css'
 import '../../styles/sass/style.scss';
 import '../../styles/css/demo7.min.css';
+import '../../styles/css/style.min.css';
+// import '../../styles/vendor/owl-carousel/owl.carousel.min.js';
+// import '../../styles/vendor/owl-carousel/owl.carousel.min.css';
 import type { Metadata } from 'next'
 
 // const inter = Inter({ subsets: ['latin'] })
